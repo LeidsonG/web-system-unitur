@@ -1,4 +1,3 @@
-
 # PROMPT COMPLETO — DESENVOLVIMENTO DO SISTEMA WEB SM UNITUR
 
 Desenvolva um sistema web completo para a empresa SM Unitur, focado em confecção de roupas personalizadas, uniformes e produtos têxteis personalizados.
@@ -418,3 +417,12 @@ Priorizar:
 # 15.IMPORTANTE
 
 Preciso que você a cada passo a passo um git commit e a mensagem do que foi alterado. Pode ter vários commits ou se precisar usar branchs, pode usar. Mas preciso que seja comitado e versionado.
+
+
+# Precisamos fazer:
+
+Precisa arrumar o envio pelo whatsapp, está enviando somente para o e-mail -> Verificar se arrumou
+
+A margem superior de cada começo de sessão, está muito grande -> OK
+
+Precisa colocar para mudar a senha do usuario no admin
